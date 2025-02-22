@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "@ganache/flavor": "0.10.1",
-    "@ganache/options": "0.9.1",
+    "@ganache/options": "0.9.2",
     "keccak": "3.0.2"
   }
 }
