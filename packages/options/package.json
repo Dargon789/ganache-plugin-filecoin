@@ -59,7 +59,7 @@
     "node-loader": "2.1.0",
     "nyc": "17.0.0",
     "seedrandom": "3.0.5",
-    "sinon": "19.0.0",
+    "sinon": "21.0.1",
     "terser-webpack-plugin": "5.3.11",
     "tmp-promise": "3.0.2",
     "ts-loader": "9.3.1",
